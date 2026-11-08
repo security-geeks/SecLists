@@ -1,3 +1,4 @@
+root:password
 root:calvin
 root:root
 root:toor
@@ -130,3 +131,6 @@ root:roottoor
 centos:reverse
 root:reverse
 zyfwp:PrOw!aN_fXp
+manage:!manage
+monitor:!monitor
+padmin:padmin

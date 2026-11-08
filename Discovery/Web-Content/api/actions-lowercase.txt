@@ -15,6 +15,7 @@ calculate
 change
 claim
 collect
+com
 comm
 communicate
 compare
@@ -61,6 +62,7 @@ inform
 inquiry
 interpret
 kill
+latest
 level
 link
 list
@@ -81,6 +83,7 @@ reactivate
 read
 recite
 record
+recursive
 register
 remove
 restore
